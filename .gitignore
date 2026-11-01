@@ -1,0 +1,10 @@
+.scratch/
+.testhome/
+.chrome-test*/
+.tools/
+.git-ssh/
+.pnpm-store/
+.activation.log
+node_modules/
+artifacts/
+*.tgz

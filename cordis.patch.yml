@@ -1,0 +1,4 @@
+# Add the Token HUD beside Settings at the sidebar foot.
+- insert:
+    - id: token-hud
+      name: dsh-plugin-token-hud

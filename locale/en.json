@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token & Balance",
+    "description": "Shows current-session token usage, context pressure, DeepSeek account balance, and today's spend at the bottom left."
+  }
+}

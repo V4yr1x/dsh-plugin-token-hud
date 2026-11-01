@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token 与余额",
+    "description": "在左下角显示当前会话的 Token 用量、上下文占用、DeepSeek 账户余额和今日消费。"
+  }
+}

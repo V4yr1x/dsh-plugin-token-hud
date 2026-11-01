@@ -1,5 +1,7 @@
 # Token 与余额 · DSH 插件
 
+[![CI](https://github.com/V4yr1x/dsh-plugin-token-hud/actions/workflows/ci.yml/badge.svg)](https://github.com/V4yr1x/dsh-plugin-token-hud/actions/workflows/ci.yml)
+
 在 DeepSeek Harness 的**左下角侧边栏底部**显示当前会话的 Token 消耗、上下文占用，以及 DeepSeek 账户的充值余额和今日消费。
 
 > 位置：侧边栏 Settings 上方，和截图里的账户摘要一样位于左下角。默认两条摘要；点击展开明细。
@@ -48,7 +50,21 @@
 
 ## 安装
 
-### 通过 DSH 插件管理器（推荐）
+### 从 GitHub Release 安装（推荐）
+
+1. 打开 [v0.3.3 Release](https://github.com/V4yr1x/dsh-plugin-token-hud/releases/tag/v0.3.3)。
+2. 下载 `dsh-plugin-token-hud-0.3.3.tgz`。
+3. 在 DSH **设置 → 插件** 中选择本地包安装。
+
+### 从 GitHub 仓库安装
+
+在 DSH 插件管理器的安装地址里输入：
+
+```text
+github:V4yr1x/dsh-plugin-token-hud
+```
+
+### 本地目录安装
 
 1. 打开 DSH 的 **设置 → 插件**（或插件管理器）。
 2. 选择从**本地目录/路径**安装。

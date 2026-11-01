@@ -5,6 +5,14 @@
   "type": "module",
   "description": "Bottom-left live token usage and DeepSeek balance HUD for DeepSeek Harness.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V4yr1x/dsh-plugin-token-hud.git"
+  },
+  "homepage": "https://github.com/V4yr1x/dsh-plugin-token-hud#readme",
+  "bugs": {
+    "url": "https://github.com/V4yr1x/dsh-plugin-token-hud/issues"
+  },
   "keywords": [
     "dsh",
     "deepseek-harness",
